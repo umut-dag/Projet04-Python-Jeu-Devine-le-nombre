@@ -48,7 +48,7 @@ for i in range(nombreEssais):
             print("==================================================================")
         break
 
-    # Je force cette var à zero afin d'invalider le while de la ligne 32 et lui permettre la vérification (nombre entre 1 et 100) lors de la prochaine poposition
+    # Je force cette var à zero afin d'invalider le while de la ligne 32 et lui permettre la vérification (nombre entre 1 et 100) lors de la prochaine proposition
     proposition = 0
 
 # Le joueur n'a pas trouvé le nombre à deviner...
